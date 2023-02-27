@@ -1,0 +1,15 @@
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\obj\Debug\net7.0\Ejemplo de Patrones de Diseño.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\obj\Debug\net7.0\Ejemplo de Patrones de Diseño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\obj\Debug\net7.0\Ejemplo de Patrones de Diseño.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\obj\Debug\net7.0\Ejemplo de Patrones de Diseño.AssemblyInfo.cs
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\obj\Debug\net7.0\Ejemplo de Patrones de Diseño.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\bin\Debug\net7.0\Ejemplo de Patrones de Diseño.exe
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\bin\Debug\net7.0\Ejemplo de Patrones de Diseño.deps.json
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\bin\Debug\net7.0\Ejemplo de Patrones de Diseño.runtimeconfig.json
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\bin\Debug\net7.0\Ejemplo de Patrones de Diseño.dll
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\bin\Debug\net7.0\Ejemplo de Patrones de Diseño.pdb
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\obj\Debug\net7.0\Ejemplo de Patrones de Diseño.dll
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\obj\Debug\net7.0\refint\Ejemplo de Patrones de Diseño.dll
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\obj\Debug\net7.0\Ejemplo de Patrones de Diseño.pdb
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\obj\Debug\net7.0\Ejemplo de Patrones de Diseño.genruntimeconfig.cache
+C:\Users\loren\source\repos\Ejemplo de Patrones de Diseño\Ejemplo de Patrones de Diseño\obj\Debug\net7.0\ref\Ejemplo de Patrones de Diseño.dll
