@@ -1,0 +1,15 @@
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\obj\Debug\net7.0\TareaPOO.csproj.AssemblyReference.cache
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\obj\Debug\net7.0\TareaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\obj\Debug\net7.0\TareaPOO.AssemblyInfoInputs.cache
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\obj\Debug\net7.0\TareaPOO.AssemblyInfo.cs
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\obj\Debug\net7.0\TareaPOO.csproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\bin\Debug\net7.0\TareaPOO.exe
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\bin\Debug\net7.0\TareaPOO.deps.json
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\bin\Debug\net7.0\TareaPOO.runtimeconfig.json
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\bin\Debug\net7.0\TareaPOO.dll
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\bin\Debug\net7.0\TareaPOO.pdb
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\obj\Debug\net7.0\TareaPOO.dll
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\obj\Debug\net7.0\refint\TareaPOO.dll
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\obj\Debug\net7.0\TareaPOO.pdb
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\obj\Debug\net7.0\TareaPOO.genruntimeconfig.cache
+C:\Users\loren\source\repos\TareaPOO\TareaPOO\obj\Debug\net7.0\ref\TareaPOO.dll
